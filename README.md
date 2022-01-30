@@ -8,8 +8,8 @@
 <!-- - ⚡ Fun fact: -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Rust, K8s
-- 🤔 I’m looking for help with Rust, K8s
-- 💬 Ask me about PHP, Python, Linux, DevOps
-- 😄 Pronouns: ROGER
+- 🔭 I’m currently working on Golang, Python
+- 🌱 I’m currently learning Rust
+- 🤔 I’m looking for help with Rust
+- 💬 Ask me about Golang, Python, Linux, DevOps
+- 😄 Pronouns: ROGERS
