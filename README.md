@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Rust
 - 💬 Ask me about Golang, Python, Linux, Distributed System, Microservices, SRE
 - 😄 Pronouns: rogers
+- ⚡ Fun fact: **linux and vim is productive forces**
