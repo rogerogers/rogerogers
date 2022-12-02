@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Golang, Python, Linux, Distributed System, Microservices, SRE, PHP
 - 😄 Pronouns: rogers
 - ⚡ Fun fact: linux and vim are productive forces
+
+![profile view](https://komarev.com/ghpvc/?username=rogerogers)
