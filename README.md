@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=vim,go,python,rust,javascript,php,lua&theme=light)](https://blog.rogerogers.com)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,redis,prometheus,grafana,qt,spring,regex&theme=light)](https://blog.rogerogers.com)
+### Framework
+[![My Skills](https://skillicons.dev/icons?i=flask,django,spring,qt,react,laravel,bootstrap,tauri&theme=light)](https://blog.rogerogers.com)
+
+### Tool
+[![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,redis,prometheus,grafana,regex,md&theme=light)](https://blog.rogerogers.com)
