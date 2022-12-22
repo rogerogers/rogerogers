@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ### Tool
 [![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,redis,prometheus,grafana,regex,md&theme=light)](https://blog.rogerogers.com)
+<img src="https://github.com/cncf/artwork/raw/master/projects/argo/icon/color/argo-icon-color.svg" alt="drawing" height="48" width="48"/>
