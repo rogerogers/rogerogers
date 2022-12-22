@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: linux and vim are productive forces
 
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=vim,go,python,rust,javascript,php,lua&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,go,python,rust,javascript,php,lua&theme=light)](https://blog.rogerogers.com)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,prometheus,qt,spring,regex&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,redis,prometheus,grafana,qt,spring,regex&theme=light)](https://blog.rogerogers.com)
