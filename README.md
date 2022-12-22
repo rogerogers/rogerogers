@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: rogers
 - ⚡ Fun fact: linux and vim are productive forces
 
-![profile view](https://komarev.com/ghpvc/?username=rogerogers)
+### Language
+[![My Skills](https://skillicons.dev/icons?i=vim,go,python,rust,javascript,php,lua&theme=light)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,prometheus,qt,spring,regex&theme=light)](https://skillicons.dev)
