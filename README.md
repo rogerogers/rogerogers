@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Framework
 [![My Skills](https://skillicons.dev/icons?i=flask,django,spring,qt,react,laravel,bootstrap,tauri&theme=light)](https://blog.rogerogers.com)
-[<img src="https://github.com/cncf/artwork/raw/master/projects/grpc/icon/white/grpc-icon-white.svg" width="48" height="48"/>](https://grpc.io/)
+[<img src="https://github.com/cncf/artwork/raw/master/projects/grpc/icon/color/grpc-icon-color.svg" width="48" height="48"/>](https://grpc.io/)
 
 ### Tool
 [![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,redis,prometheus,grafana,regex,md&theme=light)](https://blog.rogerogers.com)
