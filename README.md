@@ -16,12 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: linux and vim are productive forces
 
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=vim,go,python,rust,javascript,php,lua&theme=light)](https://blog.rogerogers.com)
-
-### Framework
-[![My Skills](https://skillicons.dev/icons?i=flask,django,spring,qt,react,laravel,bootstrap,tauri&theme=light)](https://blog.rogerogers.com)
-[<img src="https://github.com/cncf/artwork/raw/master/projects/grpc/icon/color/grpc-icon-color.svg" width="48" height="48"/>](https://grpc.io/)
-
-### Tool
-[![My Skills](https://skillicons.dev/icons?i=vim,kubernetes,linux,postgres,redis,prometheus,grafana,regex,md&theme=light)](https://blog.rogerogers.com)
-[<img src="https://github.com/cncf/artwork/raw/master/projects/argo/icon/color/argo-icon-color.svg" alt="drawing" height="48" width="48"/>](https://argo-cd.readthedocs.io/)
+[![My Skills](https://skillicons.dev/icons?i=vim&theme=light)](https://blog.rogerogers.com)
