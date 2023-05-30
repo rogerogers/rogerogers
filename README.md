@@ -8,10 +8,10 @@
 <!-- - ⚡ Fun fact: -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Golang, Python, Java
+- 🔭 I’m currently working on Golang, Python
 - 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with Rust
-- 💬 Ask me about Golang, Python, Linux, Distributed System, Microservices, SRE, PHP
+- 💬 Ask me about VIM, Golang, Python, Linux, Distributed System, Microservices, SRE
 - 😄 Pronouns: rogers
 - ⚡ Fun fact: linux and vim are productive forces
 
