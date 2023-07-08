@@ -9,8 +9,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Golang, Python
-- 🌱 I’m currently learning Rust
-- 🤔 I’m looking for help with Rust
+- 🌱 I’m currently learning Zero trust
+- 🤔 I’m looking for help with Zero trust
 - 💬 Ask me about VIM, Golang, Python, Linux, Distributed System, Microservices, SRE
 - 😄 Pronouns: rogers
 - ⚡ Fun fact: linux and vim are productive forces
