@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Zero trust
 - 🤔 I’m looking for help with Zero trust
 - 💬 Ask me about VIM, Golang, Python, Linux, Distributed System, Microservices, SRE
-- 😄 Pronouns: rogers
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: linux and vim are productive forces
 
 ### Language
